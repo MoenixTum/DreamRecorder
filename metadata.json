@@ -1,0 +1,7 @@
+{
+  "name": "Dream Recorder",
+  "description": "A voice-first dream journal with a mystical forest aesthetic. Record your dreams instantly upon waking, and let AI transcribe and analyze them.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
